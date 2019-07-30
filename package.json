@@ -1,0 +1,9 @@
+{
+  "name": "wit",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "wit.js",
+  "dependencies": {
+    "lodash.sample": "^4.2.1"
+  }
+}
